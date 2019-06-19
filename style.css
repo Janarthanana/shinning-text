@@ -18,7 +18,7 @@ p
 	letter-spacing: 4px;
 	overflow: hidden;
 	background: linear-gradient(90deg, #000, #fff, #000);
-	background-repeat: no-repeat;
+	background-repeat: repeat-y;
 	animation: animate 3s linear infinite;
 	background-size: 80%;
 	-webkit-background-clip: text;
