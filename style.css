@@ -22,7 +22,7 @@ p
 	animation: animate 3s linear infinite;
 	background-size: 80%;
 	-webkit-background-clip: text;
-	-webkit-text-fill-color: rgba(255,255,255,.01); //changed
+	-webkit-text-fill-color: rgba(255,255,255,0); //changed
 }
 @keyframes animate
 {
